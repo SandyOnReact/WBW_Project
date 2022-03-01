@@ -25,11 +25,11 @@ const BUILD_BASE_URL = [
     },
     {
         label: "Demo",
-        value: "http://demo.wisebusinessware.com/MobileAPI/api"
+        value: "https://demo.wisebusinessware.com/MobileAPI/api"
     },
     {
         label: "Sandbox",
-        value: "http://sandbox.wisebusinessware.com/MobileAPI/api"
+        value: "https://sandbox.wisebusinessware.com/MobileAPI/api"
     }
 ]
 
